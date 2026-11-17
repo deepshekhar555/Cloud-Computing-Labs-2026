@@ -1,0 +1,4 @@
+cloud computing with apache hadoop
+hadoop distributed file system and mapreduce
+cloud computing enables scalable distributed data processing
+mapreduce processes big data across hadoop clusters
